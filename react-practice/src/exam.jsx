@@ -1,7 +1,7 @@
 // import React from 'react'
 // import './index.index.css'
 
-const Exam = () => {
+function Exam() {
     return (
         <div>exam</div>
     )
